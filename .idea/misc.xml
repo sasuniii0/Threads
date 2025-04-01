@@ -5,10 +5,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01-Introduction/pom.xml" />
+        <option value="$PROJECT_DIR$/02-ExtendThreadClass/pom.xml" />
+        <option value="$PROJECT_DIR$/03-ImplementsRunnableInterface/pom.xml" />
+        <option value="$PROJECT_DIR$/04-LambdaExpressions/pom.xml" />
+        <option value="$PROJECT_DIR$/05-Join-iIs-Alive/pom.xml" />
+        <option value="$PROJECT_DIR$/05-JoinAndIsAlive/pom.xml" />
+        <option value="$PROJECT_DIR$/06-ThreadPriority/pom.xml" />
+        <option value="$PROJECT_DIR$/07-SynchronizedKeyword/pom.xml" />
+        <option value="$PROJECT_DIR$/08-InterThreadCommunication/pom.xml" />
+        <option value="$PROJECT_DIR$/ThreadPool/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

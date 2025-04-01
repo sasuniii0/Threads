@@ -6,8 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="03-ImplementsRunnableInterface" />
+        <module name="02-ExtendThreadClass" />
+        <module name="04-LambdaExpressions" />
+        <module name="05-JoinAndIsAlive" />
         <module name="01-Introduction" />
+        <module name="07-SynchronizedKeyword" />
+        <module name="08-InterThreadCommunication" />
+        <module name="09-ThreadPool" />
+        <module name="06-ThreadPriority" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="05-Join-IsAlive" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
